@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "username": "JcPerez",
+      "password": "$2b$10$vb7I3wtYCH/9q9myCKhx2eeBa7Sv/qrgUF3MQBuuj10NTNixuVXtu"
+    },
+
+    {
+      "id": 2,
+      "username": "JVc45",
+      "password": "$2b$10$pxjS95Rt7TWjFNY1hZnS8eJjApsYjY0LzneJgkJKoX0hyF5cZIiia"
+
+    },
+    
+    {
+      "id": 3,
+    "username": "JCmz",
+    "password": "$2b$10$OWqA1HsC.2e9LBYG8svLd.Z9Dx3qbxKLBJvjMBfJcQIsPW3yvNgMy"
+
+    },
+
+    {
+      "id": 4,
+    "username": "Ju895",
+    "password": "$2b$10$bArfZ.jiq4M8ykefACllturn9a.991f9QSBXDvOPdM8tylPePQ3/K"
+
+    },
+
+    {
+      "id": 5,
+    "username": "Maximo95",
+    "password": "$2b$10$eLhKMtp.Q2fo4VL77p/NXu3hu11QrtPIyvqe4moG/ntgBSgGh8bze"
+
+    },
+
+    {
+      "id": 6,
+    "username": "Johana5",
+    "password": "$2b$10$EbZBG3f0x7Tj7xxV8nxfCuC4aDZzXozkDwtPeN2KReHPcUbiS1fV2"
+
+    },
+
+    {
+      "id": 7,
+    "username": "john_doe",
+    "password": "$2b$10$7k2tm/D6fdZBiDltZOlt1utDs4Pdg5FVwxrNwbOtVIaHuGbLCH4M2"
+
+    }
+  ]
+  
